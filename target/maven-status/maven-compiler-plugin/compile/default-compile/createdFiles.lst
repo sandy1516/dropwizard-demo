@@ -1,0 +1,4 @@
+com\san\pro\config\MessageConfiguration.class
+com\san\pro\config\AppServiceConfiguration.class
+com\san\pro\resources\HelloResource.class
+com\san\pro\AppService.class
